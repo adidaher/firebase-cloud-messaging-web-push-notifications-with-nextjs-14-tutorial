@@ -5,13 +5,13 @@ importScripts(
 
 // Replace these with your own Firebase config keys...
 const firebaseConfig = {
-  apiKey: null,
-  authDomain: null,
-  projectId: null,
-  storageBucket: null,
-  messagingSenderId: null,
-  appId: null,
-  measurementId: null,
+  apiKey: "AIzaSyC71bujQoeP12S058pnrswzCHINdmSg2ek",
+  authDomain: "barberappadi.firebaseapp.com",
+  projectId: "barberappadi",
+  storageBucket: "barberappadi.firebasestorage.app",
+  messagingSenderId: "244848390459",
+  appId: "1:244848390459:web:8d72f66e603a245bf1471e",
+  measurementId: "G-CNY5YP80C9",
 };
 
 firebase.initializeApp(firebaseConfig);
